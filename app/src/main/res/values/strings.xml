@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Homework 2.1.1</string>
+    <string name="money_amt">Amount of money</string>
+    <string name="additional_info">Additional info</string>
+    <string name="card_number">Card number</string>
+    <string name="phone_number">Phone number</string>
+    <string name="address">Address</string>
+    <string name="payment_card">Credit card</string>
+    <string name="payment_phone">Phone number</string>
+    <string name="payment_cash">Cash</string>
+    <string name="proceed">Proceed</string>
+    <string name="toast_none_checked">Choose one of the options</string>
+    <string name="proceeding">Proceeding payment, mode - %s, $%.2f, additional - %s</string>
+    <string name="mode_card">card</string>
+    <string name="mode_phone">phone</string>
+    <string name="mode_cash">cash</string>
+    <string name="invalid_money_amt">Invalid number as money amount</string>
+    <string name="type_money_amt">Please type an amount of money</string>
+    <string name="additional_empty">none</string>
+</resources>
