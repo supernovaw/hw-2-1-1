@@ -1,6 +1,5 @@
 package com.example.homework211;
 
-import android.util.Log;
 import android.view.View;
 import android.widget.CheckBox;
 

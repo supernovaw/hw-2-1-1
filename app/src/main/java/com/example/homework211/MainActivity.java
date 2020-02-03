@@ -83,8 +83,7 @@ public class MainActivity extends AppCompatActivity {
 		String additional = additionalInput.getText().toString();
 		additional = additional.isEmpty() ? getString(R.string.additional_empty)
 				: '"' + additional + '"';
-		String toast = String.format(
-				getString(R.string.proceeding), getString(mode), money, additional);
+		String toast = getString(R.string.proceeding, getString(mode), money, additional);
 		Toast.makeText(this, toast, Toast.LENGTH_SHORT).show();
 	}
 }
